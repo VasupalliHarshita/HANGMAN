@@ -1,0 +1,31 @@
+===================================
+      WELCOME TO HANGMAN GAME
+===================================
+Guess the word one letter at a time.
+You have 6 incorrect guesses.
+
+
+Current Word: _ _ _ _ _
+Guessed Letters: 
+Remaining Attempts: 6
+Correct Guess!
+
+Current Word: _ p p _ _
+Guessed Letters: p
+Remaining Attempts: 6
+Correct Guess!
+
+Current Word: _ p p _ e
+Guessed Letters: p e
+Remaining Attempts: 6
+Correct Guess!
+
+Current Word: _ p p l e
+Guessed Letters: p e l
+Remaining Attempts: 6
+Correct Guess!
+
+==============================
+🎉 Congratulations!
+You guessed the word: APPLE
+==============================
